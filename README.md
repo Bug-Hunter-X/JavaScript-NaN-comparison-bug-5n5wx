@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, JavaScript bug related to comparing values with NaN (Not a Number). The bug lies in the unexpected behavior when handling NaN within a conditional statement.  The solution corrects this by explicitly checking for NaN using the isNaN() function.
